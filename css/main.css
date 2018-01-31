@@ -19,6 +19,7 @@ html{
   font-weight: 100;
   font-size: 72px;
   font-style: bold;
+  color : aqua;
   text-shadow: 2px 2px 5px aqua;
   -webkit-text-fill-color: transparent;
 }
