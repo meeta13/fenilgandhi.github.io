@@ -1,3 +1,2 @@
-# fenilgandhi.github.io
-
-> Welcome to [! my bio](http://fenilgandhi.github.io/). 
+# fenilgandhi.me
+> Welcome to [my bio](https://fenilgandhi.me). 
