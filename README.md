@@ -1,2 +1,2 @@
-# fenilgandhi.github.io
+# fenilgandhi.tech
 > Welcome to [my bio](https://fenilgandhi.github.io). 
